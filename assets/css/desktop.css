@@ -19,6 +19,7 @@ header .index-icon{
     font-size: 3rem;
     text-decoration: none;
     color: #000000;
+    transition: 400ms;
 }
 header .index-icon:hover{
     font-size: 3.2rem;
@@ -31,19 +32,23 @@ header .list-header{
 }
 header .item-header{
     margin: 5px;
+    
 }
 header .item-header a{
     text-decoration: none;
     font-size: 1.2rem;
     color: #000000;
+    transition: 400ms;
 }
 header .item-header a:hover{
     font-weight: 700;
+    font-size: 1.3rem;
 }
 header .resume{
     border: 1px solid #000000;
     border-radius: 5px;
     padding: 8px;
+    transition: 400ms;
 }
 header .resume:hover{
     background-color: #000000;
