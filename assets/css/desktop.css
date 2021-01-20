@@ -59,9 +59,38 @@ header .resume:hover{
     font-size: 1.4rem;
 }
 main .main-container{
+    display: flex;
     width: auto;
     height: 100vh;
     background-image: url(/assets/img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-container .description-container{
+    display: grid;
+    grid-template-columns: repeat(2,minmax(250px,500px));
+    grid-template-areas: "hi description-me"
+                "name-title description-me"
+                ". description-me";
+    margin: 0 auto;
+    grid-gap: 10px;
+
+}
+.hi{
+    grid-area: hi;
+    font-size: 2.8rem;
+    color: #ffffff;
+}
+.name-title{
+    grid-area: name-title;
+    font-size: 4.5rem;
+    color: #ffffff;
+}
+.description-me{
+    grid-area: description-me;
+    font-size: 2.8rem;
 }
