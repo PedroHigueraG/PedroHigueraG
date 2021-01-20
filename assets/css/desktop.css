@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-family: 'Spartan', sans-serif;
+    font-size: 62.5%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: auto;
+}
+header .index-icon{
+    font-weight: 700;
+    font-size: 3rem;
+    text-decoration: none;
+    color: #000000;
+}
+header .index-icon:hover{
+    font-size: 3.2rem;
+}
+
+header .list-header{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+header .item-header{
+    margin: 5px;
+}
+header .item-header a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #000000;
+}
+header .item-header a:hover{
+    font-weight: 700;
+}
+header .resume{
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 8px;
+}
+header .resume:hover{
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 700;
+}
