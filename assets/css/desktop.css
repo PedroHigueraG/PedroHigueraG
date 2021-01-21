@@ -135,6 +135,24 @@ footer{
     background-color: #e2e2e2;    
 }
 
+.up-link{
+    position: fixed;
+    display: block;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: 700;
+    right: 15px;
+    bottom: 15px;
+}
+.up-button{
+    background-image: url(/assets/img/icon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+
+}
+
 @media screen and (max-width: 600px){
     body{
         overflow-x: hidden;
@@ -145,7 +163,7 @@ footer{
     .menu{
         display: block;
         margin: 0px;
-        z-index: 1;
+        z-index: 100;
     }
     .item-header a{
         font-size: 1.6rem;
@@ -166,6 +184,7 @@ footer{
         background-color: #fffffff8;
         transform: translateX(100%);
         transition: transform 400ms ease-in;
+        z-index: 100;
     }
     .list-header .item-header{
         opacity: 0;
