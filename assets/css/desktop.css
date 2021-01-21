@@ -156,7 +156,7 @@ footer{
     }
     .list-header{
         position: fixed;
-        width: 100%;
+        width: 50%;
         height: 100vh;
         top: 0px;
         right: 0;
