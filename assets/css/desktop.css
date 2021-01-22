@@ -141,15 +141,15 @@ footer{
     text-decoration: none;
     font-size: 2rem;
     font-weight: 700;
-    right: 15px;
-    bottom: 15px;
+    right: 20px;
+    bottom: 20px;
 }
 .up-button{
     background-image: url(/assets/img/icon.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
 
 }
 
@@ -209,6 +209,10 @@ footer{
         border: none;
         margin: 0px;
         padding: 0px;
+    }
+    .up-link{
+        right: 15px;
+        bottom: 15px;
     }
 }
 
