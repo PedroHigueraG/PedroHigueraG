@@ -186,7 +186,7 @@ footer{
     bottom: 20px;
 }
 .up-button{
-    background-image: url(https://i.imgur.com/VWAZXra.png);
+    background-image: url(/assets/img/icon.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 30px;
