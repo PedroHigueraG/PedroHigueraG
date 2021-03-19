@@ -186,6 +186,9 @@ header{
     padding: 10%;    
     height: 80%;
 }
+.div-projects-container h1{
+    margin: 10px;
+}
 .grid-projects{
     display: flex;
 }
