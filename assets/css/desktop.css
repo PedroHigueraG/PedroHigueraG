@@ -9,6 +9,12 @@ html{
     font-size: 62.5%;
     scroll-behavior: smooth;
 }
+h1{
+    font-size: 2.8rem;
+}
+p{
+    font-size: 1.4rem;
+}
 header{
     position: fixed;
     width: 100%;
@@ -149,26 +155,57 @@ header{
 .image-about-me{
     border-radius: 10px;
 }
-.experience-container{
-    width: 100%;
-    height: 100vh;
-    background-image: url(/assets/img/background-3.png);
-    background-size: cover;
-    background-color: #a3a3a3;
-}
 .projects-container{
     width: 100%;
-    height: 100vh;
-    background-image: url(/assets/img/background-2.jpg);
+    min-height: 100vh;
+    background-image: url(/assets/img/background-3.png);
     background-size: cover;
     background-color: #e2e2e2;
 }
+.certificate-container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/assets/img/background-2.jpg);
+    background-size: cover;
+    background-color: #a3a3a3;
+}
+
 .contact-container{
     width: 100%;
     height: 100vh;
     background-image: url(/assets/img/background-3.png);
     background-size: cover;
     background-color: #777777;    
+}
+
+.div-projects-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10%;    
+    height: 80%;
+}
+.grid-projects{
+    display: flex;
+}
+.project-item{
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 1px #000000a9;
+    background-color: #ffffff62;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s ;
+}
+.project-item:hover{
+    background-color: #ffffffa2;
+    transition: 0.5s ;
+}
+.project-item img{
+    margin-bottom: 10px;
 }
 footer{
     width: 100%;
@@ -279,6 +316,15 @@ footer{
         right: 15px;
         bottom: 15px;
     }
+    .grid-projects{
+        flex-direction: column;
+    }
+    .grid-projects img{
+        height: 100px;
+    }
+    .div-projects-container{
+        margin-bottom: 10px;
+    }
 }
 
 @media screen and (min-width:600px) and (max-width:1200px){
@@ -325,6 +371,9 @@ footer{
     .description-about-me{
         font-size: 1.8rem;
         grid-area: description;
+    }
+    .grid-projects{
+        flex-direction: column;
     }
 
    
