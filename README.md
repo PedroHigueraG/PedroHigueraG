@@ -50,7 +50,6 @@ I can be contacted by:
 [<img aling='left' alt='instagram'  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 [<img aling='left' alt='linkedin'  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img aling='left' alt='github'  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>][github]
-[<img aling='left' alt='gmail'  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 [facebook]:https://www.facebook.com/Pedro664
 [instagram]:https://www.instagram.com/higuerapedro664/
