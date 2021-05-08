@@ -3,18 +3,6 @@
 <!--
 **PedroHigueraG/PedroHigueraG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi I'm Pedro Higuera 🤙
 <br>
 I'm a systems engineering student at the district university Francisco José de Caldas. I'm from Bogotá, Colombia.
@@ -58,6 +46,5 @@ I can be contacted by:
 
 [facebook]:https://www.facebook.com/Pedro664
 [instagram]:https://www.instagram.com/higuerapedro664/
-[linkedin]:https://www.linkedin.com/in/pedro-arturo-h-b19004104/
+[linkedin]:https://www.linkedin.com/in/pedrohiguerag/
 [github]:https://github.com/PedroHigueraG
-[gmail]:mailto:higueragarzonpedroarturo@gmail.com
