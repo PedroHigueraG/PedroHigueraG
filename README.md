@@ -35,6 +35,8 @@ Currently in the projects that I have carried out I manage:
 
 <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
 
+<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 
 <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
@@ -42,6 +44,12 @@ Currently in the projects that I have carried out I manage:
 <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
 
 <img src='https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white'>
+
+<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+
+<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+
+
 
 ### Stats
 <br>
