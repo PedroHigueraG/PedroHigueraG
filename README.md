@@ -19,7 +19,7 @@ I like web development and I have learned HTML, CSS and JavaScript, I have taken
 <br>
 I developed my portfolio autonomously where I will upload my projects and certificates, which is hosted on github pages and you can visit it here:
 
-- [My Portfolio](https://pedrohiguerag.github.io/ )
+- [My Portfolio](https://pedro-higuera.com/)
 
 ### Experience
 <br>
